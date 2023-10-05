@@ -57,8 +57,16 @@ body {
 .main-copy {
     padding: 30px;
 }
+
+.footer {
+    padding: 30px;
+    position: inherit;
+    bottom: 0;
+    font-size: 60%;
+}
 /* Style for the content inside the transparent div */
 .content {
     padding: 20px; /* Add padding to create space for content */
     color: white; /* Text color for the content */
+
 }
